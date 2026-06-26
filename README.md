@@ -1,2 +1,2 @@
 # learning-lab
-A space where I learn , practice , and build.
+A  collection of my coding practice , experiments, and learnig journey.
